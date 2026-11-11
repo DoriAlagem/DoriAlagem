@@ -1,6 +1,6 @@
 ### Hi, I'm Dor
 
-I'm doing an M.Sc. in Machine Learning & Big Data at the Open University of Israel, after a B.Sc. in Computer Science at HIT. Most of what I build these days is in Python, around LLMs: agents that call tools, and pipelines that run on their own.
+I'm an M.Sc. student in Machine Learning & Big Data at the Open University of Israel. Before that, I did a B.Sc. in Computer Science at HIT. Most of what I build these days is in Python, around LLMs: agents that call tools, and pipelines that run on their own.
 
 Two projects I'm actively working on:
 
